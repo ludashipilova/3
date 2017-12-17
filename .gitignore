@@ -1,2 +1,4 @@
 /.idea
 projects.iml
+out
+.idea/vcs.xml
